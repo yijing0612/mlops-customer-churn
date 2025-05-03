@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/yijin/mlops-customer-churn/mlruns/574751808031189678/c10418504aa14d25b6029d6381adb798/artifacts
+end_time: 1746268533225
+entry_point_name: ''
+experiment_id: '574751808031189678'
+lifecycle_stage: active
+run_id: c10418504aa14d25b6029d6381adb798
+run_name: respected-hen-204
+run_uuid: c10418504aa14d25b6029d6381adb798
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746268530445
+status: 3
+tags: []
+user_id: yijin

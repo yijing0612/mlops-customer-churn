@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/yijin/mlops-customer-churn/mlruns/574751808031189678/ef0fc5334c9d42cdb2a9c3943aaed741/artifacts
+end_time: 1746268315746
+entry_point_name: ''
+experiment_id: '574751808031189678'
+lifecycle_stage: active
+run_id: ef0fc5334c9d42cdb2a9c3943aaed741
+run_name: gentle-robin-817
+run_uuid: ef0fc5334c9d42cdb2a9c3943aaed741
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746268312393
+status: 3
+tags: []
+user_id: yijin

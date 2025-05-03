@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/yijin/mlops-customer-churn/mlruns/574751808031189678/3f4e878c519441b19ea0380ebdc0abca/artifacts
+end_time: 1746280416888
+entry_point_name: ''
+experiment_id: '574751808031189678'
+lifecycle_stage: active
+run_id: 3f4e878c519441b19ea0380ebdc0abca
+run_name: righteous-smelt-994
+run_uuid: 3f4e878c519441b19ea0380ebdc0abca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746280413492
+status: 3
+tags: []
+user_id: yijin

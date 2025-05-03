@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/yijin/mlops-customer-churn/mlruns/574751808031189678/6d6ef04cc6d341bb98abc9ffefe59818/artifacts
+end_time: 1746280612832
+entry_point_name: ''
+experiment_id: '574751808031189678'
+lifecycle_stage: active
+run_id: 6d6ef04cc6d341bb98abc9ffefe59818
+run_name: LogisticRegression
+run_uuid: 6d6ef04cc6d341bb98abc9ffefe59818
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746280609328
+status: 3
+tags: []
+user_id: yijin

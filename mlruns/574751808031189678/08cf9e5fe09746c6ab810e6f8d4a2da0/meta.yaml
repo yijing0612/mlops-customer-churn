@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/yijin/mlops-customer-churn/mlruns/574751808031189678/08cf9e5fe09746c6ab810e6f8d4a2da0/artifacts
+end_time: 1746268478487
+entry_point_name: ''
+experiment_id: '574751808031189678'
+lifecycle_stage: active
+run_id: 08cf9e5fe09746c6ab810e6f8d4a2da0
+run_name: angry-ray-241
+run_uuid: 08cf9e5fe09746c6ab810e6f8d4a2da0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746268475370
+status: 3
+tags: []
+user_id: yijin

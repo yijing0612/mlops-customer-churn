@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/yijin/mlops-customer-churn/mlruns/574751808031189678/8be1ab18ceee4cdd9615b41eee441b05/artifacts
+end_time: 1746281152712
+entry_point_name: ''
+experiment_id: '574751808031189678'
+lifecycle_stage: active
+run_id: 8be1ab18ceee4cdd9615b41eee441b05
+run_name: XGBoost_100_5_0.1
+run_uuid: 8be1ab18ceee4cdd9615b41eee441b05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746281149673
+status: 3
+tags: []
+user_id: yijin

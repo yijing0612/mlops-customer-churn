@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/yijin/mlops-customer-churn/mlruns/574751808031189678
+creation_time: 1746268221147
+experiment_id: '574751808031189678'
+last_update_time: 1746268221147
+lifecycle_stage: active
+name: Customer-Churn-Classifier

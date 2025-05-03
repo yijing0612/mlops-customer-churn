@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/yijin/mlops-customer-churn/mlruns/574751808031189678/6727a345cf984d219987a4de68a46925/artifacts
+end_time: 1746268471613
+entry_point_name: ''
+experiment_id: '574751808031189678'
+lifecycle_stage: active
+run_id: 6727a345cf984d219987a4de68a46925
+run_name: peaceful-wolf-18
+run_uuid: 6727a345cf984d219987a4de68a46925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746268468322
+status: 3
+tags: []
+user_id: yijin

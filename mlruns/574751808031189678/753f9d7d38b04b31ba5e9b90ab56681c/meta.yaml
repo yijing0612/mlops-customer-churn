@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/yijin/mlops-customer-churn/mlruns/574751808031189678/753f9d7d38b04b31ba5e9b90ab56681c/artifacts
+end_time: 1746280413207
+entry_point_name: ''
+experiment_id: '574751808031189678'
+lifecycle_stage: active
+run_id: 753f9d7d38b04b31ba5e9b90ab56681c
+run_name: awesome-boar-277
+run_uuid: 753f9d7d38b04b31ba5e9b90ab56681c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746280408887
+status: 3
+tags: []
+user_id: yijin
