@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1746329102360
+current_stage: None
+description: null
+last_updated_timestamp: 1746329102360
+name: ChurnModel
+run_id: 3fb57221fee74f7382b49d660f23db96
+run_link: null
+source: file:///c:/Users/yijin/mlops-customer-churn/mlruns/0/3fb57221fee74f7382b49d660f23db96/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/yijin/mlops-customer-churn/mlruns/0/3fb57221fee74f7382b49d660f23db96/artifacts/model
+user_id: null
+version: 1

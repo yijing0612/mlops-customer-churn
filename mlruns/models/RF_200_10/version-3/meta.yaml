@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1746329190857
+current_stage: None
+description: null
+last_updated_timestamp: 1746329190857
+name: RF_200_10
+run_id: 28ff66cb368b47558a6a0e6b93138ed4
+run_link: null
+source: file:///c:/Users/yijin/mlops-customer-churn/mlruns/0/28ff66cb368b47558a6a0e6b93138ed4/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/yijin/mlops-customer-churn/mlruns/0/28ff66cb368b47558a6a0e6b93138ed4/artifacts/model
+user_id: null
+version: 3

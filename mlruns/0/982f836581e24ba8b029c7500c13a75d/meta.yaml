@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/yijin/mlops-customer-churn/mlruns/0/982f836581e24ba8b029c7500c13a75d/artifacts
+end_time: 1746329141285
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 982f836581e24ba8b029c7500c13a75d
+run_name: resilient-kit-62
+run_uuid: 982f836581e24ba8b029c7500c13a75d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746329137967
+status: 3
+tags: []
+user_id: yijin
